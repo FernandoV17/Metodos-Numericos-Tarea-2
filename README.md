@@ -57,9 +57,9 @@ python3 main.py
 El programa imprimirá lo siguiente en la consola:
 
 ```
-###########################
-# Programa que hace algo  #
-###########################
+##########################################################################
+# Programa que calcula los 0s de una ecuacion usando diferentes metodos  #
+##########################################################################
 
 Parámetros globales:
 Tol = 1e-05
