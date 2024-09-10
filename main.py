@@ -14,7 +14,7 @@ def header():
     print("Oscar Eduardo Reyes Pereyra  2109292")  
     print("\n") 
 
-tol = 10e-10
+tol = 1e-10
 Iteraciones_max = 1000
 p0 = 0  # Punto inicial para los métodos que lo requieren
 p1 = 100  # Segundo punto inicial para el método de la secante
@@ -124,11 +124,25 @@ def main():
         time.sleep(1)
     print("Ejecutando...\n")
 
+    print("Punto Fijo:\n")
     punto_fijo(p0, tol, Iteraciones_max)
+    print("\n")
+
+    print("Biseccion:\n")
     biseccion(a, b, tol, Iteraciones_max)
+    print("\n")
+    
+    print("Metodo Newton_Raphson:\n")
     newton_raphson(p0, tol, Iteraciones_max)
+    print("\n")    
+
+    print("Metodo Secante:\n")
     secante(p0, p1, tol, Iteraciones_max)
+    print("\n")  
+
+    print("Metodo Seccion Aurea:\n")
     seccion_aurea(a, b, tol, Iteraciones_max)
+    print("\n")
 
 if __name__ == "__main__":
     main()
