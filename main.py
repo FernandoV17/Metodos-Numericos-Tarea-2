@@ -10,7 +10,7 @@ def header():
     print("\n")
     print("Integrantes:")
     print("Fernando Villarreal Castillo 2049219")   
-    print("Alejandro Galindo")    
+    print("Julio Alejandro Galindo Estrada 1945686")    
     print("Oscar Eduardo Reyes Pereyra  2109292")  
     print("\n") 
 
