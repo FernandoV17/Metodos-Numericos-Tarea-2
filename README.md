@@ -79,7 +79,7 @@ Iteración [2] valor = ...
 
 ## Resultados
 
-El programa muestra una tabla resumen de los valores aproximados de la solución para cada método en cada iteración. Estos resultados deben ser presentados en el informe final, junto con el código y una explicación clara y ordenada de los métodos y resultados obtenidos.
+El programa muestra una tabla resumen de los valores aproximados de la solución para cada método en cada iteración. Estos resultados deben ser presentados en el informe final, junto con el código y una explicación clara y ordenada de los métodos y resultados obtenidos. Se anexan los resultados de nuestra ejecuccion en el archivo Reusltados.xlsx.
 
 ### Autor
 
