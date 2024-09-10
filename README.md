@@ -89,4 +89,4 @@ Este proyecto fue desarrollado como parte de la **Actividad 5** del curso de **M
 
 Catedrático: **Dr. Miguel Mata Pérez**
 
-Fecha de entrega: *[Completa con la fecha de entrega correspondiente]*
+Fecha de entrega: *10 de Septiembre del 2024*
